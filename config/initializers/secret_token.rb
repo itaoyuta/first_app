@@ -1,0 +1,2 @@
+#  ~/rails_projects/first_app/config/initializers/secret_token.rb
+FirstApp::Application.config.secret_key_base = '5806b96ef4c0de4de4098148c54dae07218445900ac485459a933398bd3fd0ab5994679fddd4191d2d39b681eb896147a29dc110f063d139e345ddeaa2ef8c44' 
